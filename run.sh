@@ -2,4 +2,3 @@
 
 chmod +x gradlew
 ./gradlew bootRun
-
