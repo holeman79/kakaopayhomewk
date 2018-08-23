@@ -1,0 +1,43 @@
+*.class
+*.log
+out/
+logs/
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.idea/
+/out/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+### Generated Files ###
+src/main/resources/static/
+
+### LOCAL LOG PATH ###
+LOG_PATH_IS_UNDEFINED/
+
+### QueryDSL ###
+src-gen/
+
+### npm ###
+node_modules/
